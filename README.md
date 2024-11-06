@@ -26,7 +26,7 @@ Primeiro, clone o repositório em sua máquina local:
 git clone https://github.com/LeoFaleiros/Ibovespa-Clustering-Analysis.git
 ```
 
-### 3.32. Obtenha os dados
+### 3.2. Obtenha os dados
 A composição do índice pode ser extraída diretamente do site da b3 [(clique aqui)](https://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm).
 
 Os dados das ações do Ibovespa são obtidos através da API yfinance. Você pode obter os dados diretamente ao executar o notebook Ibovespa_Clustering.ipynb.
