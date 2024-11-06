@@ -26,19 +26,12 @@ Primeiro, clone o repositório em sua máquina local:
 git clone https://github.com/LeoFaleiros/Ibovespa-Clustering-Analysis.git
 ```
 
-### 3.2. Instale as dependências
-O projeto utiliza as bibliotecas listadas em requirements.txt. Para instalá-las, execute o seguinte comando:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3.3. Obtenha os dados
+### 3.32. Obtenha os dados
 A composição do índice pode ser extraída diretamente do site da b3 [(clique aqui)](https://www.b3.com.br/pt_br/market-data-e-indices/indices/indices-amplos/indice-ibovespa-ibovespa-composicao-da-carteira.htm).
 
 Os dados das ações do Ibovespa são obtidos através da API yfinance. Você pode obter os dados diretamente ao executar o notebook Ibovespa_Clustering.ipynb.
 
-### 3.4. Execute o Notebook
+### 3.3. Execute o Notebook
 Abra o notebook Ibovespa_Clustering.ipynb no Jupyter Notebook e execute as células de código para rodar a análise.
 
 ```bash
