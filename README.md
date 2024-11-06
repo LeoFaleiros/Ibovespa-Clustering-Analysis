@@ -48,9 +48,9 @@ jupyter notebook
 ## 4. Interpretação dos Resultados
 Após rodar a análise de clustering, você encontrará os gráficos e os clusters das ações, como mostrado no notebook.
 
-```markdown
+
    ![Insight 1](reports/figures/clusters.jpg)
-```
+
 
 **Principais Insights**  
 Cluster 1:  
@@ -66,6 +66,15 @@ Cluster 4:
 - **Características**: Ações em forte tendência de alta, com um bom volume de negociação e alta volatilidade. Esses parâmetros indicam um potencial de valorização, com eventos de banda positiva que reforçam a tendência de alta. Essas ações podem ser altamente atraentes para investidores em busca de crescimento e dispostos a lidar com a volatilidade para maximizar os retornos.
 
 **Gráfico Interativo**: Os gráficos interativos podem ser usados para explorar os clusters de maneira mais visual. Utilize a função interativa para visualizar os dados das ações e sua classificação.
+
+**Visualização exemplo Cluster 1**  
+   ![Cluster 1](reports/figures/cluster1.jpg)  
+**Visualização exemplo Cluster 2**  
+   ![Cluster 2](reports/figures/cluster2.jpg)  
+**Visualização exemplo Cluster 3**  
+   ![Cluster 3](reports/figures/cluster3.jpg)  
+**Visualização exemplo Cluster 4**  
+   ![Cluster 4](reports/figures/cluster4.jpg)  
 
 ## 5. Resultados Finais
 Com a análise de clustering, foi possível identificar agrupamentos de ações que apresentam comportamentos semelhantes, o que pode ser útil para estratégias de diversificação de portfólio.
